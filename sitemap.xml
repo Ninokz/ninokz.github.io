@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ninokz.github.io/2023/04/30/hello-world/</loc>
+    
+    <lastmod>2023-04-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/about/index.html</loc>
+    
+    <lastmod>2023-04-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ninokz.github.io/tags/index.html</loc>
     
     <lastmod>2023-04-30</lastmod>
@@ -29,25 +47,7 @@
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/about/index.html</loc>
-    
-    <lastmod>2023-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ninokz.github.io/archives/index.html</loc>
-    
-    <lastmod>2023-04-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/2023/04/30/hello-world/</loc>
     
     <lastmod>2023-04-30</lastmod>
     

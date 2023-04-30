@@ -6,7 +6,7 @@
   <link href="https://ninokz.github.io/atom.xml" rel="self"/>
   
   <link href="https://ninokz.github.io/"/>
-  <updated>2023-04-30T15:00:01.604Z</updated>
+  <updated>2023-04-30T18:28:26.668Z</updated>
   <id>https://ninokz.github.io/</id>
   
   <author>
@@ -21,14 +21,20 @@
     <link href="https://ninokz.github.io/2023/04/30/hello-world/"/>
     <id>https://ninokz.github.io/2023/04/30/hello-world/</id>
     <published>2023-04-30T15:00:01.604Z</published>
-    <updated>2023-04-30T15:00:01.604Z</updated>
+    <updated>2023-04-30T18:28:26.668Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a class="header-anchor" href="#Run-server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a class="header-anchor" href="#Generate-static-files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a class="header-anchor" href="#Deploy-to-remote-sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>天生万物以养民，民无一善可报天。<br>不知蝗蠹遍天下，苦尽苍生尽王臣。<br>人之生矣有贵贱，贵人长为天恩眷。<br>人生富贵总由天，草民之穷由天谴。<br>忽有狂徒夜磨刀，帝星飘摇荧惑高。<br>翻天覆地从今始，杀人何须惜手劳。<br>不忠之人曰可杀！不孝之人曰可杀！<br>不仁之人曰可杀！不义之人曰可杀！<br>不礼不智不信人，大西王曰杀杀杀！<br>我生不为逐鹿来，都门懒筑黄金台，<br>状元百官都如狗，总是刀下觳觫材。<br>传令麾下四王子，破城不须封刀匕。<br>山头代天树此碑，逆天之人立死跪亦死！</p><p><s>快说，谢谢大西王</s></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;天生万物以养民，民无一善可报天。&lt;br&gt;
+不知蝗蠹遍天下，苦尽苍生尽王臣。&lt;br&gt;
+人之生矣有贵贱，贵人长为天恩眷。&lt;br&gt;
+人生富贵总由天，草民之穷由天谴。&lt;br&gt;
+忽有狂徒夜磨刀，帝星飘摇荧惑高。&lt;br&gt;
+翻天覆地从今始，杀人何须惜手劳。&lt;br&gt;
+不忠之人曰可杀！不孝之</summary>
       
     
     
