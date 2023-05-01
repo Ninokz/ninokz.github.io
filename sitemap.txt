@@ -1,3 +1,5 @@
+https://ninokz.github.io/site/index.html
+https://ninokz.github.io/about/index.html
 https://ninokz.github.io/2023/04/30/hello-world/
 https://ninokz.github.io/tags/index.html
 https://ninokz.github.io/categories/index.html
