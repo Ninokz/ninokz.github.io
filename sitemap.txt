@@ -1,7 +1,7 @@
 https://ninokz.github.io/meme/index.html
+https://ninokz.github.io/daily/index.html
 https://ninokz.github.io/categories/index.html
 https://ninokz.github.io/tags/index.html
-https://ninokz.github.io/daily/index.html
 https://ninokz.github.io/about/index.html
 https://ninokz.github.io/site/index.html
 https://ninokz.github.io/link/index.html
