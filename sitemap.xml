@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ninokz.github.io/meme/index.html</loc>
+    <loc>https://ninokz.github.io/2023/05/16/time-series/</loc>
     
-    <lastmod>2023-05-17</lastmod>
+    <lastmod>2023-05-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/2023/05/16/time-series/</loc>
+    <loc>https://ninokz.github.io/meme/index.html</loc>
     
-    <lastmod>2023-05-16</lastmod>
+    <lastmod>2023-05-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
