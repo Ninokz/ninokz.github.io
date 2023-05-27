@@ -1,5 +1,5 @@
-https://ninokz.github.io/about/index.html
 https://ninokz.github.io/2023/05/16/time-series/
+https://ninokz.github.io/about/index.html
 https://ninokz.github.io/meme/index.html
 https://ninokz.github.io/daily/index.html
 https://ninokz.github.io/categories/index.html
