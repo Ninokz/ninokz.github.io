@@ -6,7 +6,7 @@
   <link href="https://ninokz.github.io/atom.xml" rel="self"/>
   
   <link href="https://ninokz.github.io/"/>
-  <updated>2023-04-30T18:28:26.668Z</updated>
+  <updated>2024-03-29T13:58:50.449Z</updated>
   <id>https://ninokz.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>C++ 面试复习笔记</title>
+    <link href="https://ninokz.github.io/2024/03/27/cpp-review-for-interview/"/>
+    <id>https://ninokz.github.io/2024/03/27/cpp-review-for-interview/</id>
+    <published>2024-03-27T02:38:31.093Z</published>
+    <updated>2024-03-29T13:58:50.449Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="起始"><a class="header-anchor" href="#起始"></a>起始</h1><p>这篇文章应该是 blog 里更的第二篇文章，最近开始准备今年夏季实习的事情，虽然C/C++&amp;CSharp都会一点，但是感觉实习面试时的问题我会答不上来，所以准备了这篇笔记，一是记录学习笔记，二是督促一下自己吧。</p><blockquote><p>2024/03/27：开始</p></blockquote><h1 id="C-C-language"><a class="header-anchor" href="#C-C-language"></a>C/C++ language</h1><h2 id="1-Keywords-🔑"><a class="header-anchor" href="#1-Keywords-🔑"></a>1.Keywords 🔑</h2><h3 id="1-1-const"><a class="header-anchor" href="#1-1-const"></a>1.1. const</h3><p>const限定符用处是：对被修饰<strong>对象</strong>进行限定，使得对象在后续过程中不会被赋值修改，作用于函数则说明该函数不能修改成员变量</p><ul><li><p>const 引用（不可修改对象的引用）</p><p>指的是对常量对象进行引用，但是注意const引用是将对const 修饰的某类型对象限定为不可修改</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">const</span> <span class="type">int</span> a = <span class="number">5</span>;</span><br><span class="line"><span class="type">const</span> <span class="type">int</span>&amp; aRef = a;</span><br><span class="line"><span class="type">int</span>&amp; b = aRef; </span><br><span class="line"><span class="comment">// Error: cannot bind non-const lvalue reference of type &#x27;int&amp;&#x27; to an rvalue of type &#x27;const int&#x27;</span></span><br><span class="line"><span class="comment">// 因为如果成了，那我们可以根据b修改a的值了，而a本身不可修改</span></span><br></pre></td></tr></table></figure></li><li><p>const 指针（指向不可修改对象的指针、本身是不可修改的指针）</p><p>从以下代码看出const修饰的影响，有一个名词叫做顶层const和底层const，前者表示指针本身是常量（不可更改），后者表示指针所指对象是常量（对象不可更改），通常意义上来讲顶层const的限制弱于底层 const</p><figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"><span class="type">const</span> <span class="type">int</span> a = <span class="number">5</span>;</span><br><span class="line"><span class="type">int</span> b = <span class="number">9</span>;</span><br><span class="line">  </span><br><span class="line"><span class="type">const</span> <span class="type">int</span>* c = &amp;a;</span><br><span class="line"><span class="type">int</span>* <span class="type">const</span> d = &amp;b;</span><br><span class="line"><span class="type">const</span> <span class="type">int</span>* <span class="type">const</span> e = &amp;a;</span><br><span class="line">  </span><br><span class="line">c = &amp;b; <span class="comment">// OK</span></span><br><span class="line">*c = <span class="number">6</span>; <span class="comment">// Error</span></span><br><span class="line">  </span><br><span class="line">d = &amp;a; <span class="comment">// Error</span></span><br><span class="line">*d = <span class="number">10</span>; <span class="comment">// OK</span></span><br><span class="line">  </span><br><span class="line">e = &amp;b; <span class="comment">// Error</span></span><br><span class="line">*e = <span class="number">7</span>; <span class="comment">// Error</span></span><br><span class="line">  </span><br><span class="line"><span class="type">const</span> <span class="type">int</span> e = <span class="number">5</span>;</span><br><span class="line">d = &amp;e; <span class="comment">// Error</span></span><br></pre></td></tr></table></figure></li><li><p>区别于宏</p><table><thead><tr><th>宏定义 #define</th><th>const 常量</th></tr></thead><tbody><tr><td>宏定义，相当于字符替换</td><td>常量声明</td></tr><tr><td>预处理器处理</td><td>编译器处理</td></tr><tr><td>无类型安全检查</td><td>有类型安全检查</td></tr><tr><td>不分配内存</td><td>要分配内存</td></tr><tr><td>存储在代码段</td><td>存储在数据段</td></tr><tr><td>可通过 <code>#undef</code> 取消</td><td>不可取消</td></tr></tbody></table></li></ul><h3 id="1-2-static"><a class="header-anchor" href="#1-2-static"></a>1.2. static</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;起始&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#起始&quot;&gt;&lt;/a&gt;起始&lt;/h1&gt;
+&lt;p&gt;这篇文章应该是 blog 里更的第二篇文章，最近开始准备今年夏季实习的事情，虽然C/C++&amp;amp;CSharp都会一点，但是感觉实习面试时的问题我会答不</summary>
+      
+    
+    
+    
+    <category term="Learning" scheme="https://ninokz.github.io/categories/Learning/"/>
+    
+    
+    <category term="C++" scheme="https://ninokz.github.io/tags/C/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
