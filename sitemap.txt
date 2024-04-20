@@ -1,4 +1,5 @@
 https://ninokz.github.io/2024/03/27/cpp-review-for-intern/
+https://ninokz.github.io/2024/04/20/CSharpLearning/
 https://ninokz.github.io/2024/03/31/GNN/
 https://ninokz.github.io/site/index.html
 https://ninokz.github.io/about/index.html

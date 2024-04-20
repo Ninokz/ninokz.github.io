@@ -4,7 +4,16 @@
   <url>
     <loc>https://ninokz.github.io/2024/03/27/cpp-review-for-intern/</loc>
     
-    <lastmod>2024-04-16</lastmod>
+    <lastmod>2024-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/2024/04/20/CSharpLearning/</loc>
+    
+    <lastmod>2024-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://ninokz.github.io/</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,14 +111,14 @@
   
   <url>
     <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -118,7 +127,7 @@
   
   <url>
     <loc>https://ninokz.github.io/categories/Learning/</loc>
-    <lastmod>2024-04-18</lastmod>
+    <lastmod>2024-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
