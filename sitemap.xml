@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ninokz.github.io/2024/03/27/cpp-review-for-intern/</loc>
+    <loc>https://ninokz.github.io/2024/04/22/computerbase/</loc>
     
     <lastmod>2024-04-22</lastmod>
     
@@ -11,7 +11,16 @@
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/2024/04/20/CSharpLearning/</loc>
+    <loc>https://ninokz.github.io/2024/04/20/CSharp/</loc>
+    
+    <lastmod>2024-04-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/2024/03/27/cpp-review-for-intern/</loc>
     
     <lastmod>2024-04-22</lastmod>
     
@@ -110,14 +119,14 @@
 
   
   <url>
-    <loc>https://ninokz.github.io/tags/C/</loc>
+    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
+    <loc>https://ninokz.github.io/tags/C/</loc>
     <lastmod>2024-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
