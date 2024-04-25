@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ninokz.github.io/2024/04/23/csharplearning/</loc>
+    <loc>https://ninokz.github.io/2024/04/24/DesignPatterns/</loc>
     
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/2024/04/24/DesignPatterns/</loc>
+    <loc>https://ninokz.github.io/2024/04/23/csharplearning/</loc>
     
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,7 +121,7 @@
 
   <url>
     <loc>https://ninokz.github.io/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -129,14 +129,14 @@
   
   <url>
     <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -145,7 +145,7 @@
   
   <url>
     <loc>https://ninokz.github.io/categories/Learning/</loc>
-    <lastmod>2024-04-24</lastmod>
+    <lastmod>2024-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
