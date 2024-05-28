@@ -14,7 +14,7 @@ https://ninokz.github.io/link/index.html
 https://ninokz.github.io/2023/04/30/hello-world/
 https://ninokz.github.io/archives/index.html
 https://ninokz.github.io/
-https://ninokz.github.io/tags/C/
 https://ninokz.github.io/tags/Deep-Learning/
+https://ninokz.github.io/tags/C/
 https://ninokz.github.io/tags/C/
 https://ninokz.github.io/categories/Learning/
