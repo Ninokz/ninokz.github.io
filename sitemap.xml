@@ -4,7 +4,16 @@
   <url>
     <loc>https://ninokz.github.io/2024/05/14/CppLearning/</loc>
     
-    <lastmod>2024-06-12</lastmod>
+    <lastmod>2024-06-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/2024/04/23/csharplearning/</loc>
+    
+    <lastmod>2024-06-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23,33 +32,6 @@
     <loc>https://ninokz.github.io/2024/04/26/algorithms/</loc>
     
     <lastmod>2024-05-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/2024/03/27/cpp-review-for-intern/</loc>
-    
-    <lastmod>2024-05-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/2024/04/22/computerbase/</loc>
-    
-    <lastmod>2024-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/2024/04/23/csharplearning/</loc>
-    
-    <lastmod>2024-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,29 +121,29 @@
 
   <url>
     <loc>https://ninokz.github.io/</loc>
-    <lastmod>2024-06-12</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-06-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2024-06-12</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-06-12</lastmod>
+    <lastmod>2024-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/C/</loc>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -170,7 +152,7 @@
   
   <url>
     <loc>https://ninokz.github.io/categories/Learning/</loc>
-    <lastmod>2024-06-12</lastmod>
+    <lastmod>2024-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
