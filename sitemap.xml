@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ninokz.github.io/2024/05/14/CppLearning/</loc>
+    <loc>https://ninokz.github.io/2024/08/29/C++-Summary/</loc>
     
-    <lastmod>2024-06-23</lastmod>
+    <lastmod>2024-08-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://ninokz.github.io/2024/04/23/csharplearning/</loc>
     
-    <lastmod>2024-06-22</lastmod>
+    <lastmod>2024-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/2024/05/14/CppLearning/</loc>
+    
+    <lastmod>2024-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -121,29 +130,29 @@
 
   <url>
     <loc>https://ninokz.github.io/</loc>
-    <lastmod>2024-08-26</lastmod>
+    <lastmod>2024-08-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
+    <loc>https://ninokz.github.io/tags/C/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/C/</loc>
+    <lastmod>2024-08-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-08-26</lastmod>
+    <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -152,7 +161,7 @@
   
   <url>
     <loc>https://ninokz.github.io/categories/Learning/</loc>
-    <lastmod>2024-08-26</lastmod>
+    <lastmod>2024-08-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
