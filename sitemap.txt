@@ -1,3 +1,4 @@
+https://ninokz.github.io/about/index.html
 https://ninokz.github.io/2024/08/29/C++-Summary/
 https://ninokz.github.io/2024/05/14/CppLearning/
 https://ninokz.github.io/2024/04/23/csharplearning/
@@ -5,7 +6,6 @@ https://ninokz.github.io/2024/04/24/DesignPatterns/
 https://ninokz.github.io/2024/04/26/algorithms/
 https://ninokz.github.io/2024/03/31/GNN/
 https://ninokz.github.io/site/index.html
-https://ninokz.github.io/about/index.html
 https://ninokz.github.io/daily/index.html
 https://ninokz.github.io/categories/index.html
 https://ninokz.github.io/tags/index.html
@@ -14,6 +14,6 @@ https://ninokz.github.io/2023/04/30/hello-world/
 https://ninokz.github.io/archives/index.html
 https://ninokz.github.io/
 https://ninokz.github.io/tags/C/
-https://ninokz.github.io/tags/C/
 https://ninokz.github.io/tags/Deep-Learning/
+https://ninokz.github.io/tags/C/
 https://ninokz.github.io/categories/Learning/

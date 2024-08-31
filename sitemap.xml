@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ninokz.github.io/about/index.html</loc>
+    
+    <lastmod>2024-08-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ninokz.github.io/2024/08/29/C++-Summary/</loc>
     
     <lastmod>2024-08-31</lastmod>
@@ -57,15 +66,6 @@
   
   <url>
     <loc>https://ninokz.github.io/site/index.html</loc>
-    
-    <lastmod>2024-01-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/about/index.html</loc>
     
     <lastmod>2024-01-31</lastmod>
     
@@ -144,14 +144,14 @@
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/tags/C/</loc>
+    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
     <lastmod>2024-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
+    <loc>https://ninokz.github.io/tags/C/</loc>
     <lastmod>2024-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
