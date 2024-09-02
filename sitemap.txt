@@ -1,3 +1,4 @@
+https://ninokz.github.io/2024/09/01/Test-Summary/
 https://ninokz.github.io/2024/09/01/Algorithms-Summary/
 https://ninokz.github.io/2024/08/29/C++-Summary/
 https://ninokz.github.io/about/index.html
@@ -10,10 +11,10 @@ https://ninokz.github.io/daily/index.html
 https://ninokz.github.io/categories/index.html
 https://ninokz.github.io/tags/index.html
 https://ninokz.github.io/link/index.html
-https://ninokz.github.io/2023/04/30/hello-world/
 https://ninokz.github.io/archives/index.html
 https://ninokz.github.io/
 https://ninokz.github.io/tags/Practices/
-https://ninokz.github.io/tags/C/
 https://ninokz.github.io/tags/Deep-Learning/
+https://ninokz.github.io/tags/C/
+https://ninokz.github.io/tags/Test/
 https://ninokz.github.io/categories/Learning/
