@@ -4,7 +4,7 @@
   <url>
     <loc>https://ninokz.github.io/2024/09/15/All/</loc>
     
-    <lastmod>2024-09-17</lastmod>
+    <lastmod>2024-09-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -68,15 +68,6 @@
     <loc>https://ninokz.github.io/2024/04/24/DesignPatterns/</loc>
     
     <lastmod>2024-05-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/2024/04/26/algorithms/</loc>
-    
-    <lastmod>2024-05-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +139,7 @@
 
   <url>
     <loc>https://ninokz.github.io/</loc>
-    <lastmod>2024-09-17</lastmod>
+    <lastmod>2024-10-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,42 +147,42 @@
   
   <url>
     <loc>https://ninokz.github.io/tags/Practices/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/OS/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/NET/</loc>
-    <lastmod>2024-09-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ninokz.github.io/tags/Test/</loc>
-    <lastmod>2024-09-17</lastmod>
+    <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://ninokz.github.io/tags/C/</loc>
-    <lastmod>2024-09-17</lastmod>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/OS/</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/NET/</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/Deep-Learning/</loc>
+    <lastmod>2024-10-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ninokz.github.io/tags/Test/</loc>
+    <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -200,7 +191,7 @@
   
   <url>
     <loc>https://ninokz.github.io/categories/Learning/</loc>
-    <lastmod>2024-09-17</lastmod>
+    <lastmod>2024-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
